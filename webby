@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Web Page</title>
+</head>
+<body bgcolor="salmon">
+<h1>Welcome to my page</h1>
+<img src="https://pbs.twimg.com/media/Dj80eEvXoAYVWkB.jpg" height=120px width=120px align=right>
+<p><font color="red" size=5px><b>Personal Information:</b></font></p>
+<p><b><i>Department: </i></b>Informations System Engieering</p>
+<h5><font color="blue">Courses I give:</font></h3>
+<ul>
+  <li>Cmpe109</li>
+  <li>Cmpe113</li>
+  <li>Ise311</li>
+  <li>Zort</li>
+</ul>
+<br>
+<p><font color="green">Interests:</font></p>
+<ol>
+  <li>Women</li>
+  <li>Reading book</li>
+  <li>Watching movie</li>
+  <li>Playing voleyball</li>
+</ol>
+<a href="https://eksisozluk.com/"> Ekşi Sözlük | </a>
+<a href="https://github.com/"> Github | </a>
+</body>
+</html>
