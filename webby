@@ -60,3 +60,38 @@
 <a href="https://github.com/"> Github | </a>
 </body>
 </html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Web Page</title>
+</head>
+<body bgcolor="white">
+<h1>Welcome to my page</h1>
+<img src="https://static.wikia.nocookie.net/pucca/images/3/30/Garu_5.png/revision/latest/scale-to-width-down/250?cb=20160919182049" height=200px width=200px align=right>
+<p><font color="#3367FF" size=5px><b>Personal Information:</b></font></p>
+<p><b><i>Department: </i></b>Informations System Engieering</p>
+<h5><font color="blue">Courses I give:</font></h3>
+<ul>
+  <li>Cmpe109</li>
+  <li>Cmpe113</li>
+  <li>Ise311</li>
+  <li>pucca</li>
+  <li>Zort</li>
+</ul>
+<br>
+<p><font color="green">Interests:</font></p>
+<ol>
+  <li>ninjas</li>
+  <li>Reading ninja books</li>
+  <li>Watching ninja movie</li>
+  <li>Playing ninja voleyball</li>
+</ol>
+<a href="https://eksisozluk.com/"> Ekşi Sözlük | </a>
+<a href="https://github.com/"> Github | </a>
+<body background="shark.jpg"/body>
+</body>
+</html>
