@@ -95,3 +95,29 @@
 <body background="shark.jpg"/body>
 </body>
 </html>
+
+
+
+
+
+<!DOCTYPE html>
+<head>
+<title>Final</title>
+</head>
+<body background="ruyu.jpg">
+<img src="https://media.tenor.com/Of3ASibYDMUAAAAi/garu-kri.gif" height=200px width=200px>
+<p>In this course i learned the following:</p>
+<ol>
+	<li>Data storage</li>
+	<li>Data Manipulation</li>
+	<li>os</li>
+	<li>networks</li>
+	<li>sudem</li>
+	</ol>
+
+<p><b>I liked SUDEM the most!</b></p>
+<p><b>You can learn html from <a href="https://eksisozluk.com">W3Schools</a></b>
+<h1 align="right">Have a great holiday!</h1>
+
+</body>
+</html>
